@@ -8,7 +8,7 @@ This repository serves as a log of my journey, where I document my understanding
 
 ## 📚 Current Learning Status  
 I am still in the learning phase and have started with the basics of Machine Learning. So far, I have completed:  
-- **Linear Regression**: Understanding how this fundamental algorithm works, its applications, and how to implement it from scratch and using libraries like `sklearn`.  
+- **Linear Regression/Gradient**: Understanding how this fundamental algorithm works, its applications, and how to implement it from scratch and using libraries like `sklearn`.  
 
 ---
 
